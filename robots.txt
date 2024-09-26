@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://nltnlfp.github.io/sitemap.nltnlfp.gz
+Sitemap: https://nltnlfp.github.io/app/sitemap.nltnlfp.gz
+Sitemap: https://nltnlfp.github.io/assets/sitemap.nltnlfp.gz
+Sitemap: https://nltnlfp.github.io/css/sitemap.nltnlfp.gz
+Sitemap: https://nltnlfp.github.io/data/sitemap.nltnlfp.gz
+Sitemap: https://nltnlfp.github.io/includes/sitemap.nltnlfp.gz
+Sitemap: https://nltnlfp.github.io/item/sitemap.nltnlfp.gz
+Sitemap: https://nltnlfp.github.io/src/sitemap.nltnlfp.gz
